@@ -1,0 +1,7 @@
+Every ooption of the listed by you, has an specific target:
+
+ArcGIS Javascript API: it is designed to be used in webbrowsers, it shows geographic information using javascript, mainly it is intended to connect to ArcGIS Servers, as well as OGC Servers.
+
+ArcGIS Runtime SDK for .NET: if you plan to develop a desktop application with WPF, this is your tool. Last versions of this SDK is also intended for Windows Presentation Foundation (WPF) apps, Universal Windows Platform (UWP) apps, native mobile apps in C# for Android, iOS
+
+ArcObjects:The classic one, this SDK allows you to create WinForms applications with geographic information, also allows to create console applications for automate operations that involve geographic information or maps, it runs over .NET Framework.
