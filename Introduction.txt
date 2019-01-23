@@ -5,3 +5,17 @@ ArcGIS Javascript API: it is designed to be used in webbrowsers, it shows geogra
 ArcGIS Runtime SDK for .NET: if you plan to develop a desktop application with WPF, this is your tool. Last versions of this SDK is also intended for Windows Presentation Foundation (WPF) apps, Universal Windows Platform (UWP) apps, native mobile apps in C# for Android, iOS
 
 ArcObjects:The classic one, this SDK allows you to create WinForms applications with geographic information, also allows to create console applications for automate operations that involve geographic information or maps, it runs over .NET Framework.
+
+Incident Report/ Best Place Report/ 
+
+-- 1 Adding Gmap to Page
+-- 2 Adding Gmap on Call (EX button Click -Add Map)
+-- 3 Displaying Markers From Database
+-- 4 Displaying Markers From Database on Call (EX button Click -Add Map)
+-- 5 Adding Marker From Map to Database onclick
+-- 6 Adding Marker From Map to Database onclick and Filling Form attributes and submit
+-- 7 Zoom to Marker on clicking on assiciated row click
+-- 8 Editing Data from Map by selecting associtaed row
+-- 9 Editing Data from Map by selecting Marker on the Map
+-- 10 Deleting Data from Map by selecting associtaed row
+
