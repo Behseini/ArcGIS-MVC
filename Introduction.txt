@@ -21,3 +21,8 @@ Incident Report/ Best Place Report/
 
 Drawings and other functions
 
+-- Add Two Maps
+-- Category all data and display themin rows based on categories
+-- search
+-- Filter
+
