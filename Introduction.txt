@@ -25,4 +25,7 @@ Drawings and other functions
 -- Category all data and display themin rows based on categories
 -- search
 -- Filter
+-- Geofense
+-- report
+-- geocoding
 
